@@ -43,4 +43,4 @@ Posteriormente se ejecuta el siguiente comando para su funcionamiento:
 **asciiquarium**
 
 # Grabacion de Asciinema 
-[![asciicast](https://asciinema.org/a/BdUVAwv2ukATUVSACDMR9CsYA.svg)](https://asciinema.org/a/BdUVAwv2ukATUVSACDMR9CsYA)
+[![asciicast](https://asciinema.org/a/737886.svg)](https://asciinema.org/a/737886)
